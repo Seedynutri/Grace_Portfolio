@@ -6,15 +6,14 @@ I help brands scale their business by bridging the gap between clinical expertis
 
 ## Objective
 
-My journey in nuterition science has led me to develop a passion for dfigital innovation using new technologies, and I am now eager to transform wellness practice into a scalable, high-value consulting business that serves the health and wellness tech industry.
+My journey in nutrition science has led me to develop a passion for digital innovation using new technologies, and I am now eager to transform wellness practice into a scalable, high-value consulting business that serves the health and wellness tech industry.
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Health care and Public Health         | <a href="https://google.com">Detection Lab</a>|
+| Social Media Strategy and Campaign Setup           | <a href="https://github.com/Seedynutri/Social_Media_Strategy_Project_3">Skincare Brand</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -55,10 +54,7 @@ My journey in nuterition science has led me to develop a passion for dfigital in
 </div>
 
 ## Projects
-- Digital Marketing Strategy Project
+- <a href="https://github.com/Seedynutri/Social_Media_Strategy_Project_3">Pyur Skincare Project</a>
 - Pyur Skincare Project
 - Fit bit Project
 
-## Projects
-- Detection L
-- SOC Automation Project
