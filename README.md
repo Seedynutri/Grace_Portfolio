@@ -13,8 +13,8 @@ My journey in nutrition science has led me to develop a passion for digital inno
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Social Media Strategy and Campaign Setup           | <a href="https://github.com/Seedynutri/Social_Media_Strategy_Project_3">Skincare Brand</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Social Media Strategy and Campaign Setup      | <a href="https://github.com/Seedynutri/Social_Media_Strategy_Project_3">Skincare Brand</a>|
+| Problem Solving and Critical Thinking         | <a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2">Wellness Industry</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -55,6 +55,6 @@ My journey in nutrition science has led me to develop a passion for digital inno
 
 ## Projects
 - <a href="https://github.com/Seedynutri/Social_Media_Strategy_Project_3">Pyur Skincare Project</a>
-- Pyur Skincare Project
+-  <a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2">Wellness Industry</a>
 - Fit bit Project
 
