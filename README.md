@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/grace-f-ayetigbo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a Registered Dietitian and Digital Marketing Strategist who specialises in the health and wellness tech space.
-I help brands scale their business by bridging the gap between clinical expertise and digital strategy. I leverage data-driven content and innovative technology, ensuring that genuine health knowledge reaches a wider audience, builds brand credibility, and drives measurable growth.
+I help brands scale their business by bridging the gap between clinical expertise and digital strategy. I leverage data-driven content and innovative technology to ensure that genuine health knowledge reaches a wider audience, builds brand credibility, and drives measurable growth.
 
 ## Objective
 
@@ -14,28 +14,50 @@ My journey in nutrition science has led me to develop a passion for digital inno
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Social Media Strategy and Campaign Setup      | <a href="https://github.com/Seedynutri/Social_Media_Strategy_Project_3">Skincare Brand</a>|
-| Problem Solving and Critical Thinking         | <a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2">Wellness Industry</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Problem Solving and Critical Thinking         | <a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2">FitBit Wellness Industry</a>|
+| Market Research & Segmentation                | <a href="https://github.com/Seedynutri/Udacity-digital-marketing-project-1/blob/main/README.md">Magnolia Coffee Company</a> |
+|Google Analytics 4 (GA4) and Data Vitualization |<a href="https://github.com/Seedynutri/draw_insight_from_data_project_2/blob/main/Project_2_Updated_Draw-insights-from-marketing-data-project-template-update-to-ga4.pdf">Udacity Digital Marketing Project 2</a> |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+1.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+<a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2">Wellness Industry – Google Data Analytics Case Study</a> |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+**Tools Used:**
 
+Data Analysis & Processing: Excel, SQL, R, Python (Pandas, NumPy)
+
+Data Visualisation: Tableau, Google Data Studio, R ggplot2
+
+Documentation: Google Docs, GitHub
+
+2.
+
+<a href="https://github.com/Seedynutri/draw_insight_from_data_project_2/blob/main/Project_2_Updated_Draw-insights-from-marketing-data-project-template-update-to-ga4.pdf">Udacity Digital Marketing Project 2</a> |
+
+**Tools Used:**
+
+Digital Marketing & Analytics: Google Analytics 4 (GA4), Google Ads
+
+Data Analysis: Excel, SQL
+
+Visualisation & Reporting: Tableau, Google Data Studio
+
+Collaboration: GitHub, Google Docs
+
+3.
+
+<a href="https://github.com/Seedynutri">Seedynutri Recipes – Business & Nutrition Projects</a> |
+
+**Tools Used:**
+
+Data Analysis: Excel, SQL
+
+Design & Content: Canva, Figma
+
+Marketing Tools: Instagram Insights, Facebook Analytics, LinkedIn Analytics
+
+Documentation: Google Docs, GitHub
 
 ## Certifications
 <div>
@@ -56,5 +78,8 @@ My journey in nutrition science has led me to develop a passion for digital inno
 ## Projects
 - <a href="https://github.com/Seedynutri/Social_Media_Strategy_Project_3">Pyur Skincare Project</a>
 -  <a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2">Wellness Industry</a>
-- Fit bit Project
+- <a href="https://github.com/Seedynutri/Udacity-digital-marketing-project-1/blob/main/Ayetigbo_Grace_marketing_project_1_get-ready-to-market-project.pdf">Magnolia Coffee Company</a>
+- <a href= "https://github.com/Seedynutri/draw_insight_from_data_project_2/blob/main/Project_2_Updated_Draw-insights-from-marketing-data-project-template-update-to-ga4.pdf">Marketing and Technology</a>
+
+
 
