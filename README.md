@@ -40,6 +40,7 @@ Documentation: Google Docs, GitHub
 
 Digital Marketing & Analytics: Google Analytics 4 (GA4), Google Ads
 
+SEO: Google Search Console (GSC), Bing Webmaster Tools(BWT) 
 Data Analysis: Excel, SQL
 
 Visualisation & Reporting: Tableau, Google Data Studio
