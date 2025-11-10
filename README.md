@@ -26,7 +26,7 @@ My journey in nutrition science has led me to develop a passion for digital inno
 
 **Tools Used:**
 
-Data Analysis & Processing: Excel, SQL, R, Python (Pandas, NumPy)
+Data Analysis & Processing: Excel, SQL, R, Python (PyCharm, Vscode)
 
 Data Visualisation: Tableau, Google Data Studio, R ggplot2
 
