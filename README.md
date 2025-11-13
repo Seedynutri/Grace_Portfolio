@@ -2,12 +2,11 @@
 
 <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=grace-f-ayetigbo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Registered Dietitian and Digital Health Strategist who specialises in the health and wellness tech space.
-I help brands scale their business by bridging the gap between clinical expertise and digital strategy. I leverage data-driven content and innovative technology to ensure that genuine health knowledge reaches a wider audience, builds brand credibility, and drives measurable growth.
+I'm a Registered Dietitian and Marketing Strategist with over 4 years of experience driving growth for healthcare, health-tech, and wellness brands. I help brands scale their business by bridging the gap between clinical expertise and digital strategy. Proven success in patient‑centric campaigns, SEO, paid ads, and social media strategy. Skilled in HubSpot, Google Analytics, and Meta Ads Manager, delivering measurable ROI and brand visibility. I leverage data-driven content and innovative technology to ensure that genuine health knowledge reaches a wider audience, builds brand credibility, and drives measurable growth.
 
 ## Objective
 
-My journey in nutrition science has led me to develop a passion for digital innovation using new technologies, and I am now eager to transform wellness practice into a scalable, high-value consulting business that serves the health and wellness tech industry.
+My journey in nutrition science has led me to develop a passion for digital innovation using new technologies, and I am now eager to transform health and wellness brand into a scalable, high-value business that serves the health and wellness tech industry.
 
 
 ## Skills
